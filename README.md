@@ -1,1 +1,1 @@
-# Frithir
+![Fthir](header.png)
