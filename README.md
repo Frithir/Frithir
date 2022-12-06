@@ -8,5 +8,5 @@ I'm a Jamstack front end software engineer, based on the Gold Coast, Australia �
 🌱 Working with these framworks: React, React Native, Electron  
 🥷 Certified Scrum Master  
 🧐 Interested in Kotlin & Rust   
-👨‍💻 I use daily: .js, .jsx
+👨‍💻 I use daily: .js, .jsx  
 😄 Pronouns: He/His  
